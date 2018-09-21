@@ -48,4 +48,5 @@ public class MainActivity extends AppCompatActivity implements View {
     public void setViewData(String data) {
         mTextView.setText(data);
     }
+    
 }
