@@ -6,7 +6,7 @@ import uk.co.oliverbcurtis.mvpexample.contract.MainActivityContract.View;
 import uk.co.oliverbcurtis.mvpexample.model.MainActivityModel;
 
 /*
-The presenter class holds all of the business logic and provides a mediator between the view and model
+The presenter class holds all of the business logic and acts as a mediator between the view and model
 */
 public class MainActivityPresenter implements MainActivityContract.Presenter {
 
